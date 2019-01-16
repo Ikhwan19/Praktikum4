@@ -1,12 +1,12 @@
 # Praktikum4
 #tugas Web
-^beranda
+^beranda <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/beranda.jpg)
-*utama
+*utama <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/utama.jpg)
-*event
+*event <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/event.jpg)
-*gallery
+*gallery <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/galery.jpg)
-*Myprofil
+*Myprofil <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/myprofil.jpg)
