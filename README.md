@@ -9,4 +9,4 @@
 *gallery <br>
 ![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/galery.jpg)
 *myprofil <br>
-![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/myprofil.jpg)
+![alt text](https://github.com/Ikhwan19/Praktikum4/blob/master/hasil%20tampilan/myprofil.JPG)
